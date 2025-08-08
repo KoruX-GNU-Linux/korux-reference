@@ -1,0 +1,17 @@
+Source: korux-reference
+Section: doc
+Priority: optional
+Maintainer: Kirill Rekhov <krekhov.dev@gmail.com>
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.2
+Homepage: https://github.com/KoruX-GNU-Linux/korux-reference
+
+Package: korux-reference
+Architecture: all
+Depends: ${misc:Depends}, sensible-utils
+Description: KoruX live system reference
+ A minimal, task-oriented wiki for KoruX administrators. This package installs
+ a small launcher page (index.html) that points to the official KoruX GitHub
+ Wiki in English and Russian.
+ Launch: $ korux-reference

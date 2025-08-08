@@ -1,0 +1,7 @@
+Document: korux-reference
+Title: KoruX live system reference
+Section: System/Administration
+
+Format: HTML
+Index: /usr/share/doc/korux-reference/index.html
+Files: /usr/share/doc/korux-reference/*.html

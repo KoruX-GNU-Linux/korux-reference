@@ -1,0 +1,8 @@
+#!/bin/sh
+
+set -e
+
+index_file="/usr/share/doc/korux-reference/index.html"
+if [ -s "$index_file" ]; then
+  /usr/bin/sensible-browser $index_file
+fi
