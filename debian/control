@@ -13,4 +13,4 @@ Depends: ${misc:Depends}, sensible-utils
 Description: KoruX system reference
  A minimal, task-oriented wiki for KoruX administrators. This package installs
  a small launcher page (index.html) that points to the official KoruX GitHub
- wiki in English and Russian. To launch, run: korux-reference
+ Wiki. To launch, run: korux-reference
